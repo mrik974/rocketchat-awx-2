@@ -1,2 +1,2 @@
-- src: RocketChat.Server
-  version: v2.2.2
+- src: https://github.com/RocketChat/Rocket.Chat.Ansible
+  version: develop
